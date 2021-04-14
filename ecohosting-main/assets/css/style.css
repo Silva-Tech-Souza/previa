@@ -3041,19 +3041,19 @@ hr {
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
     .slider-area .hero__caption {
-        padding-top: 50px
+        padding-top: 70px
     }
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
     .slider-area .hero__caption {
-        padding-top: 40px
+        padding-top: 70px
     }
 }
 
 @media (max-width: 575px) {
     .slider-area .hero__caption {
-        padding-top: 40px
+        padding-top: 80px
     }
 }
 
@@ -3117,7 +3117,7 @@ hr {
 
 @media (max-width: 575px) {
     .slider-area .hero__caption p {
-        margin-bottom: 54px;
+        margin-bottom: 58px;
         padding-right: 0px;
         font-size: 16px
     }
@@ -3129,7 +3129,7 @@ hr {
 
 .slider-area .hero__caption.hero__caption2 h1 {
     font-size: 44px;
-    margin-bottom: 25px
+    margin-bottom: 29px
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
@@ -3198,19 +3198,19 @@ hr {
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
     .slider-area .hero-cap {
-        padding-top: 50px
+        padding-top: 70px
     }
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
     .slider-area .hero-cap {
-        padding-top: 50px
+        padding-top: 70px
     }
 }
 
 @media (max-width: 575px) {
     .slider-area .hero-cap {
-        padding-top: 50px
+        padding-top: 70px
     }
 }
 
@@ -4891,20 +4891,20 @@ form.search-box .input-form .world-form i {
 
 .blog_item_img .blog_item_date {
     position: absolute;
-    bottom: -10px;
-    left: 10px;
+    bottom: -2px;
+    left: 5px;
     display: block;
     color: #fff;
     background-color: #3e1680;
-    padding: 8px 15px;
+    padding: 1px 1px;
     border-radius: 5px
 }
 
 @media (min-width: 768px) {
     .blog_item_img .blog_item_date {
-        bottom: -20px;
+        bottom: -2px;
         left: 40px;
-        padding: 13px 30px
+        padding: 0px 0px
     }
 }
 
