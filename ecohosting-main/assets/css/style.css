@@ -3004,18 +3004,18 @@ hr {
 }
 
 .slider-height3 {
-    height: 350px
+    height: 250px
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
     .slider-height3 {
-        height: 250px
+        height: 220px
     }
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
     .slider-height3 {
-        height: 200px
+        height: 210px
     }
 }
 
